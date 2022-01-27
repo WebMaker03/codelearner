@@ -1,0 +1,142 @@
+#theme {
+  width: 700px;
+  height:450px;
+  object-fit: cover;
+  border-radius: 20px 20px 20px 20px;
+
+}
+
+#themeinfo{
+	font-size: 20px;
+}
+/** we_do **/
+
+#we {
+	 width: 100px;
+     height: 100px;
+}
+
+
+.we_doo {
+      background:#E1F2F9;
+     padding: 10px 0 130px 0;
+}
+
+.we_do .titlepage::before {
+     border: #2e2f34 solid 5px;
+}
+
+.we1_do {
+     position: inherit;
+     padding: 0;
+}
+
+#bo_hoo:hover {
+     border: #85C1E9 solid 5px;
+     transition: ease-in all 0.5s;
+}
+
+.we_boxx {
+     border: #7BBBD6 solid 3px;
+     border-radius: 10px;
+     transition: ease-in all 0.5s;
+     padding: 30px 20px 30px 20px;
+     margin-bottom: 26px;
+     width: 310px;
+     height: 500px;
+}
+
+.we_boxx h3 {
+     color: #292929;
+     font-size: 22px;
+     font-weight: bold;
+     line-height: 25px;
+     text-transform: uppercase;
+     padding-top: 25px;
+}
+
+.we_boxx h3 img {
+     float: right;
+}
+
+.we_boxx p {
+     color: #292929;
+     padding-top: 25px;
+     display: block;
+     padding-bottom: 40px;
+}
+
+.we_boxx .read_more {
+     max-width: 131px;
+     height: 41px;
+     line-height: 41px;
+     margin: 0 auto;
+     display: block;
+     margin-right: 0;
+     background: #C3EAF1;
+     position: fixed;
+     bottom: 60px;
+}
+
+#we1 .carousel-indicators {
+     display: none;
+}
+
+#we1 a.carousel-control-next,
+#we1 a.carousel-control-prev { 
+     background: #E1F2F9;
+     width: 67px;
+     height: 59px;
+     top: 9%;
+     opacity: 1;
+     font-size: 33px;
+     color: #7BBBD6;
+     box-shadow: 3px 0 36px rgba(30, 30, 30, 0.2);
+}
+
+#we1 a.carousel-control-prev {
+     left: 43%;
+}
+
+#we1 a.carousel-control-next {
+     right: 43%;
+}
+
+#we1 a.carousel-control-next:focus,
+#we1 a.carousel-control-next:hover,
+#we1 a.carousel-control-prev:focus,
+#we1 a.carousel-control-prev:hover {
+     background: #464646;
+     color: #fff;
+     opacity: 1;
+}
+
+.read_moree {
+	 border: #85C1E9 solid 0.5px;
+	 border-radius: 10px;
+     display: inline-block;
+     background: #C3EAF1 ;
+     color: #1A4C6D;
+     max-width: 100px;
+     height: 40px;
+     line-height: 40px;
+     width: 100%;
+     font-size: 17px;
+     text-align: center;
+     font-weight: 500;
+     transition: ease-in all 0.5s;
+      position: fixed;
+     bottom: 60px;
+}
+
+.read_moree:hover {
+     background: #A4D4E8;
+     color: #fff;
+     transition: ease-in all 0.5s;
+}
+ #im{
+ 	max-width: 100%;
+ 	height: 200px;
+ }
+ 
+
