@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//src/DAO/ChallengesDAO.java=UTF-8
+encoding//src/DAO/UserDAO.java=UTF-8
+encoding//src/DAO/VerificationDAO.java=UTF-8
+encoding//src/FrontController/BoardController.java=UTF-8
+encoding//src/FrontController/ChallengeController.java=UTF-8
+encoding//src/FrontController/EtcController.java=UTF-8
+encoding//src/FrontController/MainAction.java=UTF-8
+encoding//src/FrontController/ShowUserAction.java=UTF-8
+encoding//src/FrontController/UpdateUserPasswordAction.java=UTF-8
+encoding//src/FrontController/VerificationController.java=UTF-8
+encoding//src/FrontController/submitVerificationAction.java=UTF-8
+encoding//src/set/EncodingFilter.java=UTF-8
+encoding/<project>=UTF-8
