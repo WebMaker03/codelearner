@@ -1,0 +1,155 @@
+@charset "UTF-8";
+ body {
+     color: #000;
+     overflow-x: hidden;
+     height: 100%;
+     background-color: #7BBBD6;
+     background-repeat: no-repeat
+ }
+ 
+ #page_name{
+  margin-top:150px; 
+  font-weight: bold;
+  font-size: 40px;
+ }
+
+ .card {
+     border-radius: 10px;
+     width: 1500px;
+     height: 800px;
+     padding: 20px;
+     margin-top: 50px;
+     margin-bottom: 50px
+     border: #7BBBD6 solid 3px;
+ }
+
+ .profile-pic {
+     width: 60px;
+     height: 60px;
+     border-radius: 50%;
+     object-fit: contain;
+     background-color: #7BBBD6
+ }
+
+ textarea {
+     padding: 15px 20px;
+     border-radius: 10px;
+     box-sizing: border-box;
+     color: #616161;
+     border: 3px solid #C3EAF1;
+     font-size: 16px;
+     letter-spacing: 1px;
+     width: 100%
+ }
+ 
+ 
+
+ textarea:focus {
+     -moz-box-shadow: none !important;
+     -webkit-box-shadow: none !important;
+     box-shadow: none !important;
+     border: 3px solid #7BBBD6 !important;
+     outline-width: 0 !important
+ }
+ 
+ 
+
+ select {
+     border: none;
+     font-size: 15px;
+     background-color: #fff !important
+ }
+
+ select:focus {
+     -moz-box-shadow: none !important;
+     -webkit-box-shadow: none !important;
+     box-shadow: none !important;
+     outline-width: 0 !important
+ }
+
+ ::placeholder {
+     color: #BDBDBD
+ }
+
+ :-ms-input-placeholder {
+     color: #BDBDBD
+ }
+
+ ::-ms-input-placeholder {
+     color: #BDBDBD
+ }
+
+ .btn-success {
+     border-radius: 50px;
+     padding: 4px 40px
+ }
+
+ .options {
+     font-size: 23px;
+     color: #757575;
+     cursor: pointer
+ }
+
+ .options:hover {
+     color: #000
+ }
+ 
+.form-control {
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    font-size: 23px;
+    border: 3px solid #C3EAF1;
+}
+
+#checkbutton{
+	color:black;
+	margin-left:850px; 
+	border: #7BBBD6 solid 3px;
+	border-radius: 10px;
+	
+}
+
+#backbutton{
+	color:black;
+	margin-left:20px;
+	border: #7BBBD6 solid 3px;
+	border-radius: 10px;
+}
+#submitbutton{
+		color:black;
+	margin-left:20px;
+	border: #7BBBD6 solid 3px;
+	border-radius: 10px;
+	
+}
+
+#form_c{
+	 border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    font-size: 23px;
+    height: 70px;
+    border: 3px solid #C3EAF1;
+    border-radius: 10px;
+	
+}
+#form_c:focus {
+     -moz-box-shadow: none !important;
+     -webkit-box-shadow: none !important;
+     box-shadow: none !important;
+     border: 3px solid #7BBBD6 !important;
+     outline-width: 0 !important
+ }
+ 
+ #writer_theme{
+ margin-left:30px;
+ }
+ #writer_name{
+ margin-left:5px;
+ }
+ 
+ #boa{
+ 	border: #7BBBD6 solid 3px;
+	border-radius: 10px;
+ }
